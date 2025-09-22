@@ -1,3 +1,3 @@
 # DL-Playground
 
-A collection of hands-on projects exploring deep learning concepts using TensorFlow and Keras. Each project demonstrates core techniques (e.g., CNNs, RNNs, Transformers, autoencoders, GANs, etc.) with clean, well-documented code and datasets for learning and experimentation.
+A collection of hands-on projects exploring deep learning concepts using TensorFlow and Keras . Each project demonstrates core techniques (e.g., CNNs, RNNs, Transformers, autoencoders, GANs, etc.) with clean, well-documented code and datasets for learning and experimentation.
